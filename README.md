@@ -6,3 +6,5 @@ gRPC
   - Server streaming RPC
   - Client streaming RPC
   - Bidirectional streaming RPC
+
+https://grpc.io/docs/what-is-grpc/core-concepts/
